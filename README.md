@@ -2,4 +2,4 @@
 
 <h2> i am new to coding and i am currently practicing python </h2>
 
-<h3> i cant code html yet thats why my page looks so bad </h3>
+<h5> i cant code html yet thats why my page looks so bad </h5>
